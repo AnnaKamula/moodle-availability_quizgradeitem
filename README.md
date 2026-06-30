@@ -4,7 +4,7 @@ This availability condition allows activities and resources to be made available
 
 Teachers can create rules based on the percentage of marks achieved in a section, or grade item*, within a particular quiz. For example, an activity can be shown only to students who passed a particular section of a quiz, or alternatively only to students who have failed in a specific section.
 
-## Note!## 
+## Note! ## 
 
 "Grade item" here refers to grade items set in the Quiz activity. These grade items are not set or do not appear in the gradebook. To set up a grade item within a quiz, you:
 1. Go to the Questions tab in the Quiz you wish to edit.
@@ -58,7 +58,7 @@ This plugin was created by Tim Hunt, Andreas Steiger Dustin Schiele and Christin
 
 ## License ##
 
-2026 Tim Hunt, Andreas Steiger and Dustin Schiele
+2026 Tim Hunt, Andreas Steiger, Dustin Schiele and Anna Kamula
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
